@@ -14,6 +14,8 @@ Portfolio projects built for simulated clients (not paid client work). Each buil
 | [Invoice Extractor](n8n/invoice-extractor) | n8n, Gemini API, Google Sheets, Telegram | Tested on 10 fake invoices |
 | [Client Onboarding Automation](make/client-onboarding) | Make, Google Forms, Drive, Docs, Gmail, Calendar, Groq | Tested with test submissions |
 | [Xero Invoice Check](n8n/xero-invoice-check) | n8n, Xero API (OAuth2, demo company), Google Sheets, Telegram | Demo company with seeded test bills |
+| [Zapier: Lead Intake to HubSpot](zapier/lead-intake-to-hubspot) | Zapier (7 steps), Google Forms and Sheets, HubSpot, Gmail | Built on a Zapier trial, test leads only |
+| [Zapier: AI Email Triage](zapier/email-triage) | Zapier (6 steps, AI by Zapier), Gmail, Google Sheets | Built on a Zapier trial, made-up test emails only |
 
 Other Make scenarios (lead follow-up, invoice intake, AI inquiry triage, dashboard) are described in the case study PDFs: https://drive.google.com/drive/folders/1n9clnJjOrgrulIw-aEedwhg27_hazmpA?usp=sharing
 
